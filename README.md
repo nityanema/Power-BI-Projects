@@ -1,4 +1,4 @@
-**Raj Ecommerce Sales Dashboard _#PowerBIProject_** 
+<h1>Raj Ecommerce Sales Dashboard _#PowerBIProject_</h1></br>
 
 <h2>Project Overview:</h2>
 
@@ -12,7 +12,7 @@ The purpose of this dashboard is to help businesses make data-driven decisions b
 <br>2. Learned how to clean and transform data from Excel.</br>
 <br>3. Understood how to design dashboards that are insightful, user-friendly, and interactive.</br>
 
-<h2>Tools & Technologies</h2>
+<h2>Tools & Technologies:</h2>
 
 Power BI – Data visualization and dashboard creation
 
@@ -20,7 +20,7 @@ Microsoft Excel – Data cleaning and dataset preparation
 
 DAX (Data Analysis Expressions) – Custom calculations and measures
 
-<h2>Key Learnings</h2>
+<h2>Key Learnings:</h2>
 
 1. Data modeling and relationship building in Power BI
 
@@ -30,7 +30,7 @@ DAX (Data Analysis Expressions) – Custom calculations and measures
 
 4. Interpreting sales data to derive actionable business insights
 
-<h2>How to Use</h2>
+<h2>How to Use:</h2>
 
 Clone or download this repository.
 
@@ -40,7 +40,7 @@ Connect the Excel dataset if prompted.
 
 Explore insights using the interactive filters and visuals.
 
-<h2>Developed By</h2>
+<h2>Developed By-</h2>
 
 **Nitya Nema**</br>
 Marketing Student | Data Analytics Enthusiast :)</br>
